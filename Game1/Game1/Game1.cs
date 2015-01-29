@@ -1,4 +1,11 @@
-﻿using Microsoft.Xna.Framework;
+﻿/* ****************************************************
+ * DARK FIRE INTERACTIVE ENTERTAINMENT STUDIOS        *
+ * Autores: Leo; Arturo                               *
+ * Diseño: Adrian Pozas                               *
+ * Fecha de creacion: 28/01/2015                      *
+ * ****************************************************
+*/
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
