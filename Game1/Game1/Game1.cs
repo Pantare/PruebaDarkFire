@@ -6,6 +6,7 @@ namespace Game1
 {
     public class Game1 : Game
     {
+        //Un simple comentario
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
